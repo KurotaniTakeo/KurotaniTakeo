@@ -1,15 +1,20 @@
-<h1 align="center">I am Kurotani Takeo🐺</h1>
-<h3 align="center">A Beginner-Programmer Little Wolf</h3>
+<h1 align="center">Hi, I am Kurotani Takeo🐺</h1>
+<h3 align="center">A Beginner Programmer Wolf</h3>
 
-## What I'm doing?
+## TODO List
 
-* 😮 I'm currently working on my **HEXO Blog**. You can visit [here](https://krtk.top). (It is Chinese)
-* 🤔 ~~Try to learn how to develope a **UWP application**.~~ Unfortunately, it is postponed. 
-* 🤯 How to configure **nginx**...?
-* 🥺 I need to become more familiar with **Git**. 
-* ☕ Studying **Java** for Minecraft's mod.
+* 😮 I'm currently working on my **HEXO Blog**. You can visit [here](https://krtk.top).
+  * There's something strange in it. 
+  * Thanks to [Redefine Theme](https://github.com/EvanNotFound/hexo-theme-redefine).
+* 😫 **C++**! 
+* ☕ Studying **Java** for Minecraft's mod. 
 
-## Furthermore...
+## What a Lazy Wolf!
 
-* 😋 Want to try all the things I want to do.
+* 🤔 ~~Try to learn how to develope a **UWP application**.~~ It is postponed. *Maybe no one would develope a UWP app now*.
+* 🥺 ~~Learning **Adobe Illustrator**.~~ Until now, I still design posters with **PowerPoint 2019**.
+* 🤯 ~~How to configure **Nginx**...?~~ Now, my ECS is expired. 
+
+## Pet Pet
+
 * 🐱‍💻 **Bark Bark!**
